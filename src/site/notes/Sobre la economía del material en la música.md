@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sobre-la-economia-del-material-en-la-musica/"}
+{"dg-publish":true,"permalink":"/sobre-la-economia-del-material-en-la-musica/","tags":["æsthetics","music"]}
 ---
 
 en: [[On the economy of materials in music\|On the economy of materials in music]]

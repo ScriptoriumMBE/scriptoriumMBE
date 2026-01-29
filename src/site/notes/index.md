@@ -3,11 +3,11 @@
 ---
 
 
-
-es: [Índice](Índice.md)
+es: [[índice\|índice]]
 
 # Essays
 
 ## Music
 [[On the economy of materials in music\|On the economy of materials in music]]
 
+[[On 'classical' and 'popular' music\|On 'classical' and 'popular' music]]
