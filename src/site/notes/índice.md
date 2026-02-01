@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/indice/"}
 ---
 
-en: [index](index.md)
+en: [[index\|index]]
 # Ensayos
 
 ## Música
