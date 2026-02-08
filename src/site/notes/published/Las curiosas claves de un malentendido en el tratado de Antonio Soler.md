@@ -21,6 +21,7 @@ La historia de la teoría de la afinación musical comienza con Pitágoras de Sa
 La primera fuente escrita es el breve Fragmento 6a de Filolao (c. 470-c. 390 a.C.) quien fue alumno de Pitágoras.
 
 >La magnitud de la harmonia es una cuarta \[*syllaba*] más una quinta \[*di' oxeian*]. La quinta es mayor que la cuarta por el ratio de 9:8 \[*un tono*].(...) La cuarta tiene el ratio 4:3, la quinta tiene el ratio 3:2 y la octava tiene el ratio 2:1. Entonces la harmonia es cinco ratios de 9:8 \[tonos] y dos *dieses*. La quinta es tres ratios de 9:8 \[tonos] y una *diesis* y la cuarta dos ratios de 9:8 \[tonos] y una *diesis*.
+
 	Fragmento 6a (traducido del griego por Carl A. Hufmann, 1993^[(Carl A. Huffman, 1993, Philolaus Of Croton, 146-7)], traducido del inglés por el autor)
 
 Como indica Barker (2007), el tamaño que debe tomar la *diesis* para cumplir con las proporciones es el ratio $256:243$. Este ratio es conocido como el *limma* pitagórico.[^6]
