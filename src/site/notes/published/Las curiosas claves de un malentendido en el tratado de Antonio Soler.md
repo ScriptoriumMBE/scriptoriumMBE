@@ -77,7 +77,7 @@ La tarea de comprender cabalmente este error nos ha llevado por los recovecos de
 
 [^1]: Soler: _Llave de la modulación y antigüedades de la música_. Madrid: Joaquín Ibarra, 1762.
 
-[^2]: (para una discusión detallada de los ratios, cf. Partch, H. (1979). _Genesis of a music_ (2ª ed., Cap. 4: *The Language of Ratios*). Da Capo Press.)
+[^2]: Para una discusión detallada de los ratios, cf. Partch, H. (1979). _Genesis of a music_ (2ª ed., Cap. 4: *The Language of Ratios*). Da Capo Press.
 
 [^3]: _Grove Music Online_: Equal temperament.
 
