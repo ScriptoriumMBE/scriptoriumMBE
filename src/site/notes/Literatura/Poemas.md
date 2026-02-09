@@ -12,8 +12,6 @@
 
 [[Literatura/Cosas que encontré en un cajón viejo\|Cosas que encontré en un cajón viejo]]
 
-[[unpublished/Décimas del desierto florido\|Décimas del desierto florido]]
-
 [[Literatura/Dado de caras imaginarias\|Dado de caras imaginarias]]
 
 [[Literatura/De brisas, árboles y pájaros\|De brisas, árboles y pájaros]]
@@ -22,9 +20,9 @@
 
 [[Literatura/Eclipse\|Eclipse]]
 
-[[unpublished/Haiku n°1\|Haiku #1]]
+[[unpublished/Haiku n°1\|Haiku n°1]]
 
-[[Literatura/Haiku n°2\|Haiku #2]]
+[[Literatura/Haiku n°2\|Haiku n°2]]
 
 [[Literatura/Huye\|Huye]]
 
