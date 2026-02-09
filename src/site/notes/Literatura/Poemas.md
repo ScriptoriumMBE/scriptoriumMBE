@@ -20,7 +20,7 @@
 
 [[Literatura/Eclipse\|Eclipse]]
 
-[[unpublished/Haiku n°1\|Haiku n°1]]
+[[Literatura/Haiku n°1\|Haiku n°1]]
 
 [[Literatura/Haiku n°2\|Haiku n°2]]
 
