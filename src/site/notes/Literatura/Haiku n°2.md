@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/literatura/haiku-n-2/","tags":["-"]}
+{"dg-publish":true,"permalink":"/literatura/haiku-n-2/","tags":["poetry"]}
 ---
 
 ¿Dónde quedó

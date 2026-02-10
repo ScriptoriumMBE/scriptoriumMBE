@@ -3,7 +3,6 @@
 ---
 
 
-
 Detenida
 soterradamente
 la brisa estival aguza la mirada.

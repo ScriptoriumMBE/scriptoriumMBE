@@ -6,7 +6,7 @@
 
 [[Literatura/Cantaba\|Cantaba]]
 
-[[Literatura/Carta encontrada\|Carta encontrada]]
+[[Literatura/Carta\|Carta]]
 
 [[Literatura/Contrastes 2\|Contrastes 2]]
 
@@ -28,6 +28,8 @@
 
 [[Literatura/Lo más bello\|Lo más bello]]
 
+[[Literatura/Carta\|Carta]]
+
 [[Literatura/Memoria de un sueño\|Memoria de un sueño]]
 
 [[Literatura/Opiniones del estío\|Opiniones del estío]]
@@ -36,6 +38,6 @@
 
 [[Literatura/Qué escribo\|Qué escribo]]
 
-[[Literatura/Sueño de cristal\|Sueño de cristal]]
+[[Literatura/Sueño de cristal (acertijo)\|Sueño de cristal (acertijo)]]
 
-[[Literatura/Pablito....\|Ya estái escribiendo weás de nuevo]]
+[[Literatura/Ya estái escribiendo weás de nuevo\|Ya estái escribiendo weás de nuevo]]

@@ -35,7 +35,7 @@ o acaso llora la muerte
 bajo su capa negra
 y sus guirnaldas de flores caducas
 
-¿quienes descubriran
+¿quienes descubrirán
 el misterio
 de las lágrimas
 de la noche?

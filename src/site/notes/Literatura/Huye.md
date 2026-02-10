@@ -10,7 +10,7 @@ el día es preciso, huye
 huele a tierra mojada afuera
 y adentro a libros
 el tiempo precisa de interpolaciones,
-todo sigue igual que hace años
+mas todo sigue igual que hace años
 afuera suena el mar
 con rabia, huye
 aprisa
