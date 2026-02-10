@@ -7,7 +7,7 @@ Huye
 huye y no vuelvas
 la hora es clara y afuera llueve
 el día es preciso, huye
-huele atierra mojada afuera
+huele a tierra mojada afuera
 y adentro a libros
 el tiempo precisa de interpolaciones,
 todo sigue igual que hace años
