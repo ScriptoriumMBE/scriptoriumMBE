@@ -22,7 +22,7 @@ darme cuenta
 Es bello el descanso
 y bella la lucha
 pero he estado luchando demasiado
-oara encontrarla bella
+para encontrarla bella
 
 Es bello el tiempo,
 quizás lo más bello
