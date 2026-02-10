@@ -11,7 +11,3 @@ en: [[Essays/index\|index]]
 [[Essays/Las curiosas claves de un malentendido en el tratado de Antonio Soler\|Las curiosas claves de un malentendido en el tratado de Antonio Soler]]
 ## Filosofía
 [[Essays/Brevísima exposición del modelo metaplatónico\|Brevísima exposición del modelo metaplatónico]]
-
-
-# [[Literatura/Poemas\|Poemas]]
-vid.
