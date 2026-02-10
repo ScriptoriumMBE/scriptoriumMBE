@@ -9,7 +9,7 @@ su dulce secreto
 
 Manto infinito
 tanto de paz como de fuego
-la luna de llama
+la luna te llama
 a contar los recuerdos
 
 Así en las noches
