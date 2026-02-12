@@ -3,7 +3,7 @@
 ---
 
 es: [[índice\|índice]]
-[[author\|author]]
+
 
 
 # Essays
@@ -23,3 +23,7 @@ es: [[índice\|índice]]
 
 # Music
 es: [[Music/-\|Obras Musicales]]
+
+
+
+[[author\|author]] information

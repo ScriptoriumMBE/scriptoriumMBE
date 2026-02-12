@@ -15,3 +15,7 @@ en: [[index\|index]]
 
 # Música
 [[Music/-\|Obras Musicales]]
+
+
+
+información del [[autor\|autor]]
