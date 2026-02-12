@@ -25,7 +25,7 @@ Cuerdas
 
 Duración total: ca. 3 minutos
 
-Esta pieza fue seleccionada para el Concierto de Compositores Locales 2025 de la Orquesta Filarmónica del Lago Llanquihue (OFLALLAN).
+Esta pieza fue seleccionada para el Concierto de Compositores Locales 2025 de la Orquesta Filarmónica del Lago Llanquihue (OFLALLAN) y presentada por la misma orquesta en las ciudades de Puerto Varas y Llanquihue, siendo dirigida por Juan Bautista Torres.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me

@@ -12,3 +12,6 @@ be-mikael@proton.me
 
 ## Grabaciones
 https://youtu.be/Wx2sRzw2Ho0
+
+## Interpretaciones
+La pieza ha sido interpretada en numerosas ocasiones por el violista Santiago Cortez (a quien la pieza está dedicada) y el compositor.

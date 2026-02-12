@@ -20,10 +20,14 @@ Las canciones pueden trasponerse a voluntad y ser interpretadas como canciones s
 Para interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
+---
 ## Grabaciones
 [La medianoche, versión viola y piano](https://youtu.be/aIG0G4Il0LQ), por Santiago Cortez y el compositor
 [Primeras tres canciones](https://youtu.be/DYhqUFY6sww), por Jessica Rivas y el compositor
 
+
+## Interpretaciones
+La pieza ha sido interpretada (total o parcialmente) por los siguientes músicos: las cantantes Jessica Rivas y Consuelo Gallardo, el violista Santiago Cortez y el compositor.
 
 ---
 ## Nota de programa
