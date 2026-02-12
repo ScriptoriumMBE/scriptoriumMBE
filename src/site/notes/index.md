@@ -26,4 +26,4 @@ es: [[Music/-\|Obras Musicales]]
 
 
 ---
-[[author\|author]] information
+[[author\|author information]] 

@@ -21,4 +21,4 @@ en: [[index\|index]]
 
 
 ---
-información del [[autor\|autor]]
+[[autor\|información del autor]]
