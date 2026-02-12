@@ -22,4 +22,4 @@ es: [[índice\|índice]]
 [[Essays/Thresholds\|Thresholds]]
 
 # Music
-es: [[Music/Obras musicales\|Obras musicales]]
+es: [[Music/-\|Obras Musicales]]
