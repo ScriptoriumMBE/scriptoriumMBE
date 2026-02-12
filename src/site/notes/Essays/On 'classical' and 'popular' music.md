@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/essays/on-classical-and-popular-music/","tags":["music"]}
+{"dg-publish":true,"permalink":"/essays/on-classical-and-popular-music/","tags":["musicessays"]}
 ---
 
+# On 'classical' and 'popular' music
 
 On this short piece of writing, I intend to explain what do the labels actually mean and briefly argue for a more precise terminology.
 

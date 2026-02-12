@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/essays/brevisima-exposicion-del-modelo-metaplatonico/","tags":["metaphysics","philosophy"]}
 ---
 
-en: [[unpublished/A very brief exposition of the meta-Platonic model\|A very brief exposition of the meta-Platonic model]]
+en: [[Essays/A very brief exposition of the meta-Platonic model\|A very brief exposition of the meta-Platonic model]]
 
 Los ideales platónicos tienen ciertamente interés respecto de la forma en que se pueden usar para analizar no tanto la realidad actual sino el pensamiento en un nivel semánticamente significativo. Sobre todo en lo que respecta al problema de las categorías generales y los particulares.
 

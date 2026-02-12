@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/essays/las-curiosas-claves-de-un-malentendido-en-el-tratado-de-antonio-soler/","tags":["music","musictheory"]}
+{"dg-publish":true,"permalink":"/essays/las-curiosas-claves-de-un-malentendido-en-el-tratado-de-antonio-soler/","tags":["musictheory","musicessays"]}
 ---
 
+# Las curiosas claves de un malentendido en el tratado de Antonio Soler
 
 ## Introducción
 En este siguiente ensayo exploraré la interesante explicación que da cuenta del equívoco que comete el padre Antonio Soler en su tratado _Llave de la Modulación_ al confundir dos sistemas de afinación distintos en su exposición del temperamento y que lo lleva a la curiosa declaración de que el semitono menor es el de mayor tamaño.[^1] Comenzaré con algunas consideraciones y definiciones de utilidad general para abordar el tema de la afinación en la música. Luego, mostraré la evolución de las ideas de afinación en las fuentes griegas. Finalmente, analizaré el sistema de Soler y los argumentos que lo definen como un sistema ptolemaico-didímico, aun cuando él creía estar siguiendo el sistema pitagórico de Boecio, lo que ocasiona dicha confusión.

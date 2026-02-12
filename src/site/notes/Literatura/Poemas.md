@@ -4,6 +4,8 @@
 
 # Poemas
 
+[[Literatura/Apreciaciones del estío\|Apreciaciones del estío]]
+
 [[Literatura/Cantaba\|Cantaba]]
 
 [[Literatura/Carta\|Carta]]
@@ -31,8 +33,6 @@
 [[Literatura/Carta\|Carta]]
 
 [[Literatura/Memoria de un sueño\|Memoria de un sueño]]
-
-[[Literatura/Opiniones del estío\|Opiniones del estío]]
 
 [[Literatura/Paisaje nocturno\|Paisaje nocturno]]
 

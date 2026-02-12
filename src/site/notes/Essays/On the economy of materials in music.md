@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/essays/on-the-economy-of-materials-in-music/","tags":["æsthetics","music","philosophy"]}
 ---
 
-es: [[Essays/Sobre la economía del material en la música\|Sobre la economía del material en la música]]
 
+# On the economy of materials in music
+es: [[Essays/Sobre la economía del material en la música\|Sobre la economía del material en la música]]
 
 The economy of materials is a subject of great importance in the history of Western Music, though it hasn't been widely talked about in concrete, explicit terms.
 

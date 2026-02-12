@@ -3,7 +3,7 @@
 ---
 
 # Thresholds
-Commonly there are points in systems at which there are unequal returns. You can add thousands of drops to the glass, until at some point there is an individual one that causes it to overflow. The world is inherently unequal in this regard. Every single parameter that affects an outcome is affected and modulated profoundly by the notion of threshold.
+A threshold is a point in a system in which a movement in a certain direction yields unequal returns in comparison with movements in the same direction but ‘previously’. You can add thousands of drops to the glass, until at some point there is an individual one that causes it to overflow. The world is inherently unequal in this regard. Every single parameter that affects an outcome is affected and modulated profoundly by the notion of threshold.
 
 Every genetic mutation that was unsuccessful and thus ruled out by the mechanism of natural selection must have caused in at least one occasion the non-reproduction (mostly because of premature death) of an organism that would have been able to reproduce without the negative mutation. Evolution works because of this. Now, most of mutations (either positive or negative) affect only probabilities, and are not black and white. My remark is that even they affecting probabilities means that there are individual, discrete cases that are affected by thresholds.
 
