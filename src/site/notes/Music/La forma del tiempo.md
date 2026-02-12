@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/la-forma-del-tiempo/"}
 ---
 
-Para orquesta sinfónica:
+Preludio para orquesta sinfónica, escrita en 2025.
 
 Flauta traversa
 Oboe

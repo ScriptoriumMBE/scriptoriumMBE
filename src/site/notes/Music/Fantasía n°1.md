@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/fantasia-n-1/"}
 ---
 
-Para piano solo.
+Fantasía para piano solo. Escrita en 2024.
 
 Duración total: ca. 5 minutos
 

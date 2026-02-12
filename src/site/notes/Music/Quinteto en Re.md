@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/quinteto-en-re/","tags":["musicpieces"]}
 ---
 
-Para flauta, violín, viola, violonchelo y piano
+Quinteto para flauta, violín, viola, violonchelo y piano. Escrito entre 2022 y 2023.
 Duración total: ca. 25 minutos
 Movimientos:
 I. - (ca. 7 minutos)

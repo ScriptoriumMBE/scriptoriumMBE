@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/alucinacion-poemas-de-gabriela-mistral/","tags":["musicpieces"]}
 ---
 
-Ciclo de canciones para voz y piano.
+Ciclo de canciones para voz y piano. Escrito en 2023.
 
 Duración total: ca. 12 minutos
 

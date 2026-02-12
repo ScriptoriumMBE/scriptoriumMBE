@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/suite-n-1/"}
 ---
 
-Para orquesta de cuerdas.
+Suite para orquesta de cuerdas. Escrita en 2023.
 
 Duración total: ca. 15 minutos
 Movimientos:

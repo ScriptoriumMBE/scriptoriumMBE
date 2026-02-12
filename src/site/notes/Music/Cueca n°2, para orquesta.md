@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/cueca-n-2-para-orquesta/"}
 ---
 
+Pieza para orquesta. Escrita en 2025.
 
 Instrumentación:
 

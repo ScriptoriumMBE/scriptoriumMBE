@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/preludio-para-viola-y-piano/","tags":["musicessays"]}
 ---
 
-Para viola y piano
+Preludio para viola y piano. Escrito entre 2022 y 2023.
 Duración total: ca. 5 minutos
 Existen versiones alternativas para distintas instrumentaciones, incluyendo:
 	- para violonchelo y piano

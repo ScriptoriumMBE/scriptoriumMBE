@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/triptico/"}
 ---
 
-Para oboe, violín, violonchelo y marimba
+Pieza para ensamble de oboe, violín, violonchelo y marimba. Escrita en 2025.
 
 Duración total: ca. 9 minutos
 

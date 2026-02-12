@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/partita-para-viola/"}
 ---
 
-Para viola sola.
+Partita para viola sola. Escrita entre 2024 y 2026.
 
 Duración total: ca. 15 minutos
 La pieza tiene cuatro movimientos, interpretados sin interrupciones entre sí. Los movimientos II y III pueden ser interpretados cada uno por separado.
