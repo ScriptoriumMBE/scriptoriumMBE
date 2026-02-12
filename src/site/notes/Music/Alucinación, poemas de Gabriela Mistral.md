@@ -24,7 +24,9 @@ be-mikael@proton.me
 ## Grabaciones
 [La medianoche, versión viola y piano](https://youtu.be/aIG0G4Il0LQ), por Santiago Cortez y el compositor
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8gI1eBzPU6g?si=w46TGwKhId3uKItJ?rel=0&modestbranding=1&iv_load_policy=3&autoplay=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aIG0G4Il0LQ?rel=0?modestbranding=1?iv_load_policy=3?autoplay=0" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [Primeras tres canciones](https://youtu.be/DYhqUFY6sww), por Jessica Rivas y el compositor
 
 
