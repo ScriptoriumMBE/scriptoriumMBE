@@ -18,4 +18,7 @@ en: [[index\|index]]
 
 
 
+
+
+---
 información del [[autor\|autor]]
