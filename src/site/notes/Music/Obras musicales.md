@@ -3,13 +3,13 @@
 ---
 
 ## Música de cámara
-[[Music/Obras/Quinteto en Re\|Quinteto en Re]], para flauta, violín, viola, violonchelo y piano (2022-23)
+[[Music/Quinteto en Re\|Quinteto en Re]], para flauta, violín, viola, violonchelo y piano (2022-23)
 
-[[Music/Obras/Preludio para viola y piano\|Preludio para viola y piano]] (2022-23)
+[[Music/Preludio para viola y piano\|Preludio para viola y piano]] (2022-23)
 
-[[Tres danzas chilenas\|Tres danzas chilenas]], para dos violines
+[[Music/Tres danzas chilenas\|Tres danzas chilenas]], para dos violines
 
-[[Tríptico\|Tríptico]], para oboe, violín, violonchelo y marimba (2025)
+[[Music/Tres movimientos\|Tres movimientos]], para oboe, violín, violonchelo y marimba (2025)
 
 [[Intra-Terra 1\|Intra-Terra 1]], para cuarteto de contrabajos (2025-26)
 
@@ -24,14 +24,14 @@
 
 [[Adagio n°2\|Adagio n°2]], para piano solo (2023)
 
-[[Tres movimientos de inspiración folclórica\|Tres movimientos de inspiración folclórica]], para piano solo (2023-26)
+[[Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]], para piano solo (2023-26)
 
-[[Fantasía n°1\|Fantasía n°1]], para piano solo (2024)
+[[Music/Fantasía n°1\|Fantasía n°1]], para piano solo (2024)
 
-[[Balada\|Balada]], para piano solo (2024)
+[[Music/Balada\|Balada]], para piano solo (2024)
 
 ## Canciones
-[[Alucinación, poemas de Gabriela Mistral\|Alucinación, poemas de Gabriela Mistral]], para voz y piano (2023)
+[[Music/Alucinación, poemas de Gabriela Mistral\|Alucinación, poemas de Gabriela Mistral]], para voz y piano (2023)
 [[Raíces\|Raíces]], para voz y piano (2025-26)
 ### Melodías
 [[Melodía en Fa\|Melodía en Fa]] (2023)

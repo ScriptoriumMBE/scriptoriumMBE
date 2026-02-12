@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/index/","tags":["-","gardenEntry"]}
 ---
 
-
 es: [[índice\|índice]]
+[[author\|author]]
+
 
 # Essays
 
