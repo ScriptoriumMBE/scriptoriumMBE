@@ -1,0 +1,42 @@
+---
+{"dg-publish":true,"permalink":"/music/indice-musical/","tags":["musicpieces"]}
+---
+
+# Obras musicales
+## Música de cámara
+[[Music/Quinteto en Re\|Quinteto en Re]], para flauta, violín, viola, violonchelo y piano (2022-23)
+
+[[Music/Preludio para viola y piano\|Preludio para viola y piano]] (2022-23)
+
+[[Music/Tres danzas chilenas\|Tres danzas chilenas]], para dos violines (2023)
+
+[[Music/Tríptico\|Tríptico]], para oboe, violín, violonchelo y marimba (2025)
+
+[[Music/Terrarios\|Terrarios]], para cuarteto de vientos (flauta, dos clarinetes y fagot) (2026)
+## Piano solo
+
+[[Music/Adagio n°2\|Adagio n°2]], para piano solo (2023)
+
+[[Music/Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]], para piano solo (2023-26)
+
+[[Music/Fantasía n°1\|Fantasía n°1]], para piano solo (2024)
+
+[[Music/Balada n°1\|Balada n°1]], para piano solo (2024)
+
+## Canciones
+[[Music/Alucinación, poemas de Gabriela Mistral\|Alucinación, poemas de Gabriela Mistral]], para voz y piano (2023)
+
+### Melodías
+[[Melodía en Fa\|Melodía en Fa]] (2023)
+
+[[Melodía en Sol sostenido\|Melodía en Sol sostenido]] (2024)
+
+## Instrumento solo
+[[Music/Partita para viola\|Partita para viola]] (2024-26)
+
+## Orquesta
+[[Music/Suite n°1\|Suite n°1]], para orquesta de cuerdas (2023)
+
+[[Music/Cueca n°2, para orquesta\|Cueca n°2, para orquesta]] (2025)
+
+[[Music/La forma del tiempo\|La forma del tiempo]], para orquesta (2025)
