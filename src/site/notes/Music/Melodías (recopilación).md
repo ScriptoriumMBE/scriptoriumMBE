@@ -3,7 +3,7 @@
 ---
 
 # Melodías (recopilación)
-Piezas para instrumento melódico y acompañamiento. Contienen posibilidades de improvisación en distintos niveles, tanto en la melodía como en el acompañamiento. De esta forma, la partitura es un mero molde sugerido (a diferencia de la mayoría de las otras piezas).
+Piezas para instrumento melódico y acompañamiento. Contienen posibilidades de improvisación en distintos niveles, tanto en la melodía como en el acompañamiento. De esta forma, la partitura solo una sugerencia de molde (a diferencia de la mayoría de las otras piezas).
 
 ---
 
