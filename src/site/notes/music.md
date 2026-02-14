@@ -27,9 +27,8 @@
 [[Music/Alucinación, poemas de Gabriela Mistral\|Alucinación, poemas de Gabriela Mistral]], para voz y piano (2023)
 
 ### Melodías
-[[Melodía en Fa\|Melodía en Fa]] (2023)
+[[Music/Melodías\|Melodías]] (recopilación)
 
-[[Melodía en Sol sostenido\|Melodía en Sol sostenido]] (2024)
 
 ## Instrumento solo
 [[Music/Partita para viola\|Partita para viola]] (2024-26)
