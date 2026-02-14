@@ -465,3 +465,22 @@
         return finalResults;
     }
 </script>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const fixAudio = () => {
+        const selector = 'img[src$=".mp3"], img[src$=".wav"]';
+        document.querySelectorAll(selector).forEach(img => {
+            const audio = document.createElement("audio");
+            audio.controls = true;
+            audio.src = img.src;
+            audio.style.display = "block";
+            audio.style.width = "100%";
+            audio.style.margin = "10px 0";
+            img.parentNode.replaceChild(audio, img);
+        });
+    };
+    fixAudio();
+    new MutationObserver(fixAudio).observe(document.body, {childList: true, subtree: true});
+});
+</script>
