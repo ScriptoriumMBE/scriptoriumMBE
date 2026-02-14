@@ -17,21 +17,30 @@ El último movimiento está escrito para piano solo y el poema puede ser interpr
 
 Las canciones pueden trasponerse a voluntad y ser interpretadas como canciones sin palabras por cualquier combinación de instrumentos apropiada. En este caso se sugiere proyectar cada verso mientras está siendo interpretado, o en su defecto presentar los poemas al público de otra manera.
 
+Se sugiere como posibilidad tocar el tercer movimiento *attacca* desde el segundo (esta indicación no se encuentra en la última edición a la fecha).
+
 Para interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
 ---
 ## Grabaciones
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aIG0G4Il0LQ?rel=0?modestbranding=1?iv_load_policy=3?autoplay=0" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-La medianoche, versión viola y piano: Santiago Cortez y el compositor
+Santiago Cortez, viola; el compositor, piano.
+Registro de un concierto en vivo en el auditorio de la Biblioteca de Frutillar, febrero de 2024.
+
+I. La memoria divina
+![[La memoria divina—S. Cortez 1.wav]]
+
+II. Riqueza - III. La medianoche
+![[Riqueza-La medianoche —S. Cortez.wav]]
+
+IV. Paraíso
+![[Paraíso —S. Cortez.wav]]
 
 
-[Primeras tres canciones](https://youtu.be/DYhqUFY6sww), por Jessica Rivas y el compositor
 
 
-## Interpretaciones
 La pieza ha sido interpretada (total o parcialmente) por los siguientes músicos: las cantantes Jessica Rivas y Consuelo Gallardo, el violista Santiago Cortez y el compositor.
 
 ---
