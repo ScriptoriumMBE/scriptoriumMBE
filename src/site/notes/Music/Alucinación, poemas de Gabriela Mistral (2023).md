@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/alucinacion-poemas-de-gabriela-mistral-2023/","tags":["musicpieces"]}
 ---
 
+# Alucinación, poemas de Gabriela Mistral (2023)
 Ciclo de canciones para voz y piano.
 
 Duración total: ca. 12 minutos

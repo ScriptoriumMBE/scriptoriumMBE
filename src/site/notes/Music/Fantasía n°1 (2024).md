@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/fantasia-n-1-2024/"}
 ---
 
+# Fantasía n°1 (2024)
 Fantasía para piano solo.
 
 Duración total: ca. 5 minutos

@@ -3,6 +3,7 @@
 ---
 
 
+# Sobre la economía del material en la música
 en: [[Essays/On the economy of materials in music\|On the economy of materials in music]]
 
 La economía del material es un tema de notable importancia en la historia de la Música Occidental, aunque no ha sido aún ampliamente discutido en términos concretos y explícitos.

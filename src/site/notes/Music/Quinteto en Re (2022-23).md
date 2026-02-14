@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/quinteto-en-re-2022-23/","tags":["musicpieces"]}
 ---
 
+# Quinteto en Re (2022-23)
 Quinteto para flauta, violín, viola, violonchelo y piano.
 Duración total: ca. 25 minutos
 Movimientos:

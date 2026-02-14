@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/partita-para-viola-2024-26/"}
 ---
 
+# Partita para viola (2024-26)
 Partita para viola sola.
 
 Duración total: ca. 15 minutos

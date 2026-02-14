@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/terrarios-2026/","tags":["musicpieces"]}
 ---
 
+# Terrarios (2026)
 Pieza para cuarteto de vientos: flauta, dos clarinetes en si♭ y fagot. Escrita en 2026.
 
 Esta pieza fue escrita para el Cuarteto Ventolera en el marco de su Segunda Temporada de Conciertos de Compositores Locales, en febrero de 2026, que contempla conciertos en las comunas de Frutillar, Puerto Montt, Maullín y Puerto Varas, en la Región de Los Lagos.

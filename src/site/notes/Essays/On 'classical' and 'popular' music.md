@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/essays/on-classical-and-popular-music/","tags":["musicessays"]}
 ---
 
+# On 'classical' and 'popular' music
 On this short piece of writing, I intend to explain what do the labels actually mean and briefly argue for a more precise terminology.
 
 The terms 'classical' and 'popular' are evidently problematic. They are adjectives apt for individual pieces of music, not a tradition. The first movement of *Eine Kleine Nachtmusik* is much more popular than a fair bit of 'popular' music. And certainly the last albums by The Beatles have a much better case to be considered a classic than Luis Spohr's symphonies. All the proposed terms, like 'serious', 'commercial', 'art', and such are unsatisfactory, for they generalise without actually naming what makes both traditions different

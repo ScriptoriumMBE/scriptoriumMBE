@@ -2,22 +2,23 @@
 {"dg-publish":true,"permalink":"/music/melodias-recopilacion/","tags":["musicpieces"]}
 ---
 
+# Melodías (recopilación)
 Piezas para instrumento melódico y acompañamiento. Contienen posibilidades de improvisación en distintos niveles, tanto en la melodía como en el acompañamiento. De esta forma, la partitura es un mero molde sugerido (a diferencia de la mayoría de las otras piezas).
 
 ---
 
-# Melodía en Fa (2022)
+## Melodía en Fa (2022)
 Duración total: ca. 3 minutos
 
 La pieza ha sido interpretada por el violista Santiago Cortez y el compositor.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me
-## Partitura
+### Partitura
 <iframe src="/img/user/Music/Partituras/Melod%C3%ADa%20en%20Fa.pdf" width="100%" height="900px" title="Melodía en Fa.pdf" style="border:1px solid #ccc;"></iframe>
 
 ---
-# Melodía en Sol sostenido (2023)
+## Melodía en Sol sostenido (2023)
 
 Duración total: ca. 2 minutos
 
@@ -28,12 +29,12 @@ La pieza ha sido interpretada por el violista Santiago Cortez y el compositor.
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
-## Grabación
+### Grabación
 
 ![Melodía en sol sostenido —S. Cortez.wav](/img/user/Music/Audios/Melod%C3%ADa%20en%20sol%20sostenido%20%E2%80%94S.%20Cortez.wav)
 
 Interpretada por Santiago Cortez, viola y el compositor, piano. Biblioteca Municipal de Frutillar, enero de 2025.
 
-## Partitura
+### Partitura
 
 <iframe src="/img/user/Music/Partituras/Melod%C3%ADa%20en%20Sol%20sostenido.pdf" width="100%" height="900px" title="Melodía en Sol sostenido.pdf" style="border:1px solid #ccc;"></iframe>

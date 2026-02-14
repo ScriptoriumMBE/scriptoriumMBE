@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/music/tres-movimientos-para-ensamble-2025/"}
 ---
 
+# Tres movimientos para ensamble (2025)
 Pieza para ensamble de oboe, violín, violonchelo y marimba.
 
 Duración total: ca. 9 minutos

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/essays/a-very-brief-exposition-of-the-meta-platonic-model/","tags":["#metaphysics","philosophy"]}
 ---
 
+# A very brief exposition of the meta-Platonic model
+
 es: [[Ensayos/Brevísima exposición del modelo metaplatónico\|Brevísima exposición del modelo metaplatónico]]
 
 Platonic ideals do have interest with regards to the way they can be used to analyse not so much the actual reality but thought in a semantically significative way. Specially regarding the problem of general and particular categories.

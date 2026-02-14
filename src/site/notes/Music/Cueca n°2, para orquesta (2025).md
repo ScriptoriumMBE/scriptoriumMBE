@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/music/cueca-n-2-para-orquesta-2025/"}
 ---
 
-Danza para orquesta.
+# Cueca n°2, para orquesta (2025)
+Danza/fantasía orquestal.
 
 Instrumentación:
 
