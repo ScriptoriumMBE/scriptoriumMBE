@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/music/melodias-recopilacion/","tags":["musicpieces"]}
 ---
 
+Recopilación de melodías. 
+
 # Melodía en Fa (2022)
-Pieza para instrumento melódico y acompañamiento. Escrita en 2022.
+Pieza para instrumento melódico y acompañamiento.
 Duración total: ca. 3 minutos
 
 La pieza ha sido interpretada por Santiago Cortez y el compositor.
@@ -15,8 +17,10 @@ be-mikael@proton.me
 
 
 # Melodía en Sol sostenido (2023)
-Pieza para instrumento melódico y acompañamiento. Escrita en 2023.
+Pieza para instrumento melódico y acompañamiento.
 Duración total: ca. 3 minutos
+
+La versión en la partitura adjunta es para viola y piano. En este caso se sugiere *scordatura* un semitono por encima de la afinación tradicional. La pieza es flexible en términos de instrumentación, por supuesto.
 
 La pieza ha sido interpretada por Santiago Cortez y el compositor.
 
