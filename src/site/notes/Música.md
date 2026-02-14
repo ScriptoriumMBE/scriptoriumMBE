@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/musica/","tags":["musicpieces"]}
+{"dg-publish":true,"dg-path":"Music.md","permalink":"/music/","tags":["musicpieces"]}
 ---
 
 ## Música de cámara
