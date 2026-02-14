@@ -25,7 +25,7 @@ be-mikael@proton.me
 
 ## Grabación
 
-![[Melodía en sol sostenido —S. Cortez.mp3]]
+![Melodía en sol sostenido —S. Cortez.mp3](/img/user/Music/Audios/Melod%C3%ADa%20en%20sol%20sostenido%20%E2%80%94S.%20Cortez.mp3)
 
 Interpretada por Santiago Cortez, viola y el compositor, piano. Biblioteca Municipal de Frutillar, enero de 2025.
 
