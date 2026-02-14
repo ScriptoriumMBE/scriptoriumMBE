@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/musica/","tags":["musicpieces"]}
 ---
 
-# Obras musicales
 ## Música de cámara
 [[Music/Quinteto en Re\|Quinteto en Re]], para flauta, violín, viola, violonchelo y piano (2022-23)
 
