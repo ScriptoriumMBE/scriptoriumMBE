@@ -39,7 +39,7 @@ II. Riqueza - III. La medianoche
 
 IV. Paraíso
 ![Alucinación 4-Paraíso.wav](/img/user/Music/Audios/Alucinaci%C3%B3n%204-Para%C3%ADso.wav)
-
+(véase el poema y/o la partitura, más abajo).
 
 
 
