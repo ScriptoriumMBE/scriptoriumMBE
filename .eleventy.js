@@ -649,7 +649,5 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
-    eleventyConfig.addShortcode("audio", function(url) {
-});
   };
 };
