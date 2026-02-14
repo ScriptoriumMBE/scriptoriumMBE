@@ -3,6 +3,9 @@
 ---
 
 en: [[index\|index]]
+
+# Música
+[[Música\|Obras Musicales]]
 # Ensayos
 
 ## Música
@@ -13,8 +16,6 @@ en: [[index\|index]]
 ### Metaplatonismo
 [[Ensayos/Brevísima exposición del modelo metaplatónico\|Brevísima exposición del modelo metaplatónico]]
 
-# Música
-[[Música\|Obras Musicales]]
 
 
 
