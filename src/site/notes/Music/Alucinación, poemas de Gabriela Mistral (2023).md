@@ -24,6 +24,7 @@ Para interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
 ---
+
 ## Grabaciones
 
 
@@ -42,9 +43,11 @@ IV. Paraíso
 
 
 
-La pieza ha sido interpretada (total o parcialmente) por los siguientes músicos: las cantantes Jessica Rivas y Consuelo Gallardo, el violista Santiago Cortez y el compositor.
+La pieza ha sido interpretada (total o parcialmente) por los siguientes músicos: los cantantes Fabián García, Jessica Rivas y Consuelo Gallardo, el violista Santiago Cortez y el compositor.
+
 
 ---
+
 ## Nota de programa
 _Alucinación_ es una musicalización de poemas incluidos en el capítulo homónimo del libro _Tala_, publicado por Gabriela Mistral en 1938. Al componerlos he tenido siempre en mente la entonación natural del castellano hablado y recitado, intentando ilustrar las emociones evocadas en la poesía con las posibilidades que ofrece la música como medio de expresión.
 

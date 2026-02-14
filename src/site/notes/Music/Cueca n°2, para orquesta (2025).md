@@ -22,7 +22,9 @@ Percusión(2 ejecutantes):
 
 Cuerdas
 
---
+
+---
+
 
 Duración total: ca. 3 minutos
 
@@ -31,7 +33,9 @@ Esta pieza fue seleccionada para el Concierto de Compositores Locales 2025 de la
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
+
 ---
+
 ## Nota de programa
 Esta pieza es una fantasía inspirada en nuestro baile nacional. En ella se encuentran también elementos de diversos paisajes que podríamos denominar tradicionales o “de la chilenidad”, como son los chinchineros, organilleros o las fanfarrias del circo (todos estos fueron incluidos de manera inconsciente en la partitura y los he descubierto solo luego de concretarla y observarla desde fuera, como espectador). Esta pieza invita a jugar en el espacio de la memoria con libertad y habitar a esa experiencia desde un lugar diferente. Los elementos rítmicos y melódicos de la cueca están siempre presentes, pero revelando nuevos sonidos; explorando así la percepción de lo tradicional desde una sensibilidad propia.
 Esta versión orquestada amplía también la música de mi Cueca n°2 para piano solo.
