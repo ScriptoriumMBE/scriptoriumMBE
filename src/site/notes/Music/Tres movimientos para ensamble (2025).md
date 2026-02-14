@@ -16,3 +16,11 @@ A la fecha, la pieza es inédita.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me
+
+---
+## Nota de programa
+Esta es una pieza bastante particular. La escribí muy rápido, tomó cerca de tres días de trabajo total. El primer movimiento es frenético y pasa, sin detenerse, por muchos lugares distintos. El segundo movimiento es dulce. El tercer movimiento mezcla materiales musicales del folclor chileno con técnicas y paisajes minimalistas.
+
+## Partitura
+
+<iframe src="/img/user/Music/Partituras/Cuarteto-Tres%20Movimientos%20(A-2026).pdf" width="100%" height="900px" title="Cuarteto-Tres Movimientos (A-2026).pdf" style="border:1px solid #ccc;"></iframe>
