@@ -30,13 +30,13 @@ Santiago Cortez, viola; el compositor, piano.
 Registro de un concierto en vivo en el auditorio de la Biblioteca de Frutillar, febrero de 2024.
 
 I. La memoria divina
-![[La memoria divina—S. Cortez 1.wav]]
+![[La memoria divina—S. Cortez 1.wav\|La memoria divina—S. Cortez 1.wav]]
 
 II. Riqueza - III. La medianoche
-![[Riqueza-La medianoche —S. Cortez.wav]]
+![[Riqueza-La medianoche —S. Cortez.wav\|Riqueza-La medianoche —S. Cortez.wav]]
 
 IV. Paraíso
-![[Paraíso —S. Cortez.wav]]
+![[Paraíso —S. Cortez.wav\|Paraíso —S. Cortez.wav]]
 
 
 

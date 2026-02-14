@@ -21,7 +21,7 @@ es: [[índice\|índice]]
 ## Miscellaneous
 [[Essays/Thresholds\|Thresholds]]
 # Music
-es: [[music\|Obras Musicales]]
+es: [[Música\|Obras Musicales]]
 
 
 

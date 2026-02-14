@@ -14,7 +14,7 @@ en: [[index\|index]]
 [[Ensayos/Brevísima exposición del modelo metaplatónico\|Brevísima exposición del modelo metaplatónico]]
 
 # Música
-[[music\|Obras Musicales]]
+[[Música\|Obras Musicales]]
 
 
 
