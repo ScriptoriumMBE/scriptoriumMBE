@@ -19,6 +19,9 @@ Teatro Municipal de Chillán, 2024.
 
 Biblioteca Municipal de Frutillar, 2025.
 
+
+[Campus Oriente UC, 2025](https://www.youtube.com/watch?v=RmV3ai-vJPM)
+
 ## Interpretaciones
 La pieza ha sido interpretada por el compositor en distintos escenarios, incluyendo el Teatro Municipal de Chillán y el Campus Oriente de la Pontificia Universidad Católica de Chile.
 La pieza ha sido interpretada por Cristóbal Rojas en la Universidad Austral de Chile y por Joaquín Zúñiga en el Teatro del Lago.
