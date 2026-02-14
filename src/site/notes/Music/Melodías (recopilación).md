@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/music/melodias-recopilacion/","tags":["musicpieces"]}
 ---
 
-Piezas para instrumento melódico y acompañamiento
+Piezas para instrumento melódico y acompañamiento. Contienen posibilidades de improvisación en distintos niveles, tanto en la melodía como en el acompañamiento. De esta forma, la partitura es un mero molde sugerido (a diferencia de la mayoría de las otras piezas).
 
 ---
 
