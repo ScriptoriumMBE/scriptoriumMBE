@@ -25,7 +25,7 @@ be-mikael@proton.me
 
 ---
 
-## Grabaciones
+## Grabaciones e interpretaciones
 
 
 Santiago Cortez, viola; el compositor, piano.
@@ -39,6 +39,7 @@ II. Riqueza - III. La medianoche
 
 IV. Paraíso
 ![Alucinación 4-Paraíso.wav](/img/user/Music/Audios/Alucinaci%C3%B3n%204-Para%C3%ADso.wav)
+
 
 
 
