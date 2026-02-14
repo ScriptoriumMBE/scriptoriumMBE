@@ -651,7 +651,6 @@ module.exports = function (eleventyConfig) {
     markdownTemplateEngine: false,
     passthroughFileCopy: true,
     eleventyConfig.addShortcode("audio", function(url) {
-  return `<audio controls style="width: 100%;"><source src="${url}" type="audio/mpeg">Your browser does not support audio.</audio>`;
 });
   };
 };
