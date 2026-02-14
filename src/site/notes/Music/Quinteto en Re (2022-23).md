@@ -26,5 +26,5 @@ be-mikael@proton.me
 
 
 ## Grabaciones
-El Ensamble Teatro del Lago realizó una lectura de una versión anterior del tercer movimiento. Nicolas Faunes, flauta; Tania Donoso, Violín 1; Pablo Potthof, violín 2; Pablo Silva, violonchelo; el compositor, piano.
+El Ensamble Teatro del Lago realizó el año 2022 una lectura de una versión anterior del tercer movimiento. En la grabación interpretan: Nicolas Faunes, flauta; Tania Donoso, Violín 1; Pablo Potthof, violín 2; Pablo Silva, violonchelo; y el compositor, piano.
 ![Deshielo—EnsambleTdL.mp3](/img/user/Music/Audios/Deshielo%E2%80%94EnsambleTdL.mp3)
