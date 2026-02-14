@@ -23,3 +23,8 @@ be-mikael@proton.me
 ---
 
 <iframe src="/img/user/Music/Partituras/Quinteto%20en%20Re%20(2025).pdf" width="100%" height="900px" title="Quinteto en Re (2025).pdf" style="border:1px solid #ccc;"></iframe>
+
+
+## Grabaciones
+El Ensamble Teatro del Lago realizó una lectura de una versión anterior del tercer movimiento. Nicolas Faunes, flauta; Tania Donoso, Violín 1; Pablo Potthof, violín 2; Pablo Silva, violonchelo; el compositor, piano.
+![Deshielo—EnsambleTdL.mp3](/img/user/Music/Audios/Deshielo%E2%80%94EnsambleTdL.mp3)
