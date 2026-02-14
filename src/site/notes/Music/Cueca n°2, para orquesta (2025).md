@@ -37,3 +37,7 @@ Esta versión orquestada amplía también la música de mi Cueca n°2 para piano
 
 ---
 <iframe src="/img/user/Music/Partituras/Cueca%20n%C2%B02%20(A-2025).pdf" width="100%" height="900px" title="Cueca n°2 (A-2025).pdf" style="border:1px solid #ccc;"></iframe>
+
+## Audio midi
+Simulación computarizada de la pieza.
+![Cueca n°2 (orq.)—midi.mp3](/img/user/Music/Audios/midi/Cueca%20n%C2%B02%20(orq.)%E2%80%94midi.mp3)

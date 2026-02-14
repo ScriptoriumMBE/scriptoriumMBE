@@ -38,3 +38,7 @@ be-mikael@proton.me
 
 
 <iframe src="/img/user/Music/Partituras/La%20forma%20del%20tiempo%20(B-2026).pdf" width="100%" height="900px" title="La forma del tiempo (B-2026).pdf" style="border:1px solid #ccc;"></iframe>
+
+## Audio midi
+Simulación computarizada de la pieza.
+![La forma del tiempo—midi.mp3](/img/user/Music/Audios/midi/La%20forma%20del%20tiempo%E2%80%94midi.mp3)
