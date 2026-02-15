@@ -24,3 +24,15 @@ Esta es una pieza bastante particular. La escribí muy rápido, tomó cerca de t
 ## Partitura
 
 <iframe src="/img/user/Music/Partituras/Cuarteto-Tres%20Movimientos%20(A-2026).pdf" width="100%" height="900px" title="Cuarteto-Tres Movimientos (A-2026).pdf" style="border:1px solid #ccc;"></iframe>
+
+## Audio midi
+Simulación computarizada de la pieza.
+
+I. Defenestración
+![Tres movs 1-Defenestración—midi.mp3](/img/user/Tres%20movs%201-Defenestraci%C3%B3n%E2%80%94midi.mp3)
+
+II. Elegía (Intermedio)
+![Tres movs 2-Intermedio—midi.mp3](/img/user/Tres%20movs%202-Intermedio%E2%80%94midi.mp3)
+
+III. Resoluciones (Final)
+![Tres movs 3-Final—midi.mp3](/img/user/Tres%20movs%203-Final%E2%80%94midi.mp3)
