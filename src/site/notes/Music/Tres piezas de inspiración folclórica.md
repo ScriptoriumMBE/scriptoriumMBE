@@ -3,7 +3,7 @@
 ---
 
 # Tres piezas de inspiración folclórica
-Pequeña *suite* para piano solo. Escrita entre 2023 y 2025, revisada en 2026.
+Pequeña *suite* para piano solo. Escrita entre 2023 y 2025, revisada extensivamente en 2026.
 
 Duración total: ca. 8 minutos
 
