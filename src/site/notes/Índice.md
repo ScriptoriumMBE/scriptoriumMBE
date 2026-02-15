@@ -5,8 +5,8 @@
 # Índice
 en: [[Index\|Index]]
 
-# Música
-[[Música\|Obras Musicales]]
+# [[Música\|Música]]
+
 # [[Ensayos/Ensayos\|Ensayos]]
 
 
