@@ -21,7 +21,7 @@ be-mikael@proton.me
 
 ---
 
-## Melodía en Sol sostenido (2023)
+## Melodía en Sol sostenido menor (2023)
 
 Duración total: ca. 2 minutos
 
