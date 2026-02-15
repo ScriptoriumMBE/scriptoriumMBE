@@ -14,5 +14,16 @@ en: [[Index\|Index]]
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ---
-[[autor\|información del autor]]
+Información del [[autor\|autor]].

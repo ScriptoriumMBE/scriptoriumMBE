@@ -27,7 +27,7 @@
 [[Music/Alucinación, poemas de Gabriela Mistral (2023)\|Alucinación, poemas de Gabriela Mistral (2023)]], para voz y piano
 
 ### Melodías
-[[Music/Melodías (recopilación)\|Melodías (recopilación)]]
+[[Music/Melodías\|Melodías]] (recopilación)
 
 
 ## Instrumento solo

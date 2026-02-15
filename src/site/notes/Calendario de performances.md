@@ -66,8 +66,8 @@ Concierto de Composición, primer semestre
 
 **25 de febrero de 2025**
 Galería Bosque Nativo (Casa Raddatz), Puerto Varas
-- [[Music/Melodías (recopilación)#Melodía en Sol sostenido (2023)\|Melodía en Sol sostenido menor]] — Santiago Cortez, viola; el compositor, piano
-- [[Music/Melodías (recopilación)#Melodía en Fa (2022)\|Melodía en Fa]] — Santiago Cortez, viola; el compositor, piano
+- [[Music/Melodías#Melodía en Sol sostenido (2023)\|Melodía en Sol sostenido menor]] — Santiago Cortez, viola; el compositor, piano
+- [[Music/Melodías#Melodía en Fa (2022)\|Melodía en Fa]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Preludio para viola y piano (2022-23)\|Preludio para viola y piano]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Alucinación, poemas de Gabriela Mistral (2023)\|Alucinación, poemas de Gabriela Mistral]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Fantasía n°1 (2024)\|Fantasía n°1]], para piano solo — el compositor, piano
@@ -76,7 +76,7 @@ Galería Bosque Nativo (Casa Raddatz), Puerto Varas
 **24 de enero de 2025**
 Auditorio de la Biblioteca Municipal de Frutillar
 - [[Music/Balada n°1 (2024)\|Balada n°1]], para piano solo — el compositor, piano
-- [[Music/Melodías (recopilación)#Melodía en Sol sostenido (2023)\|Melodía en Sol sostenido menor]] — Santiago Cortez, viola; el compositor, piano
+- [[Music/Melodías#Melodía en Sol sostenido (2023)\|Melodía en Sol sostenido menor]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Preludio para viola y piano (2022-23)\|Preludio para viola y piano]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Alucinación, poemas de Gabriela Mistral (2023)\|Alucinación, poemas de Gabriela Mistral]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Fantasía n°1 (2024)\|Fantasía n°1]], para piano solo — el compositor, piano
