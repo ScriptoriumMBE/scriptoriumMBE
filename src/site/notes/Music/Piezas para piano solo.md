@@ -19,7 +19,7 @@ Partitura:
 <iframe src="/img/user/Music/Partituras/Preludio%20n%C2%B01%20(D-2026).pdf" width="100%" height="900px" title="Preludio n°1 (D-2026).pdf" style="border:1px solid #ccc;"></iframe>
 
 
-
+---
 ## Preludio n°2 (2023)
 Duración total: ca. 3 minutos
 
@@ -30,6 +30,8 @@ be-mikael@proton.me
 
 Partitura:
 <iframe src="/img/user/Music/Partituras/Preludio%20n%C2%B02%20(D-2026).pdf" width="100%" height="900px" title="Preludio n°2 (D-2026).pdf" style="border:1px solid #ccc;"></iframe>
+
+---
 
 ## Impromptu (2023)
 

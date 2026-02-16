@@ -10,12 +10,12 @@ Esta pieza fue escrita para el Cuarteto Ventolera en el marco de su Segunda Temp
 Duración total: ca. 14 minutos
 
 Movimientos:
-I. - (ca. 7 minutos)
-II. Danzas (ca. 3 minutos)
-III. Intermezzo (ca. 3 minutos)
+I. Caminata (ca. 7 minutos)
+II. Danzas (ca. 2 minutos)
+III. Intermezzo (ca. 2 minutos)
 IV. Ventolera (Final) (ca. 2 minutos)
 
-La pieza fue estrenada en febrero de 2026 por el Cuarteto Ventolera.
+La pieza fue estrenada en febrero de 2026 por el Cuarteto Ventolera, compuesto por Cristóbal Ortiz, Nicolás Velásquez, Teresa Soto y Alén Ayancán.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me

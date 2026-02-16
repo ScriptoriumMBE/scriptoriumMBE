@@ -80,7 +80,7 @@ Auditorio de la Biblioteca Municipal de Frutillar
 - [[Music/Preludio para viola y piano (2022-23)\|Preludio para viola y piano]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Alucinación, poemas de Gabriela Mistral (2023)\|Alucinación, poemas de Gabriela Mistral]] — Santiago Cortez, viola; el compositor, piano
 - [[Music/Fantasía n°1 (2024)\|Fantasía n°1]], para piano solo — el compositor, piano
-- [[Octeto de cuerdas\|Octeto de cuerdas]], I. Παιάν — Juan Andrés Aguilar, Matthias Neumann, Rayen Pozo Aguilar, Benjamín Aguilar Jarpa: violines; Marcel Andree Reinberg, César Marín Almonacid: violas; Matías Mansilla, Leandro Riquelme Águila: violonchelos.
+- [[Octeto de cuerdas\|Octeto de cuerdas]], I. Παιάν (Himno) — Juan Andrés Aguilar, Matthias Neumann, Rayen Pozo Aguilar, Benjamín Aguilar Jarpa: violines; Marcel Andree Reinberg, César Marín Almonacid: violas; Matías Mansilla, Leandro Riquelme Águila: violonchelos.
 
 **13 de diciembre de 2024**
 Auditorio de la Biblioteca Municipal de Frutillar

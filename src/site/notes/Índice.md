@@ -26,4 +26,4 @@ en: [[Index\|Index]]
 
 
 ---
-Información del [[autor\|autor]].
+información del [[autor\|autor]].
