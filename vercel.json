@@ -3,15 +3,16 @@
     "installCommand": "npm install",
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
-
-    "redirects": [
-  { "source": "/musica", "destination": "/music", "permanent": true }
-],
-
-
     
     "routes": [
+        {
+        "src": "^/musica/?$",
+        "headers": { "Location": "/music/" },
+        "status": 301
+        },
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
+
+    
 }
