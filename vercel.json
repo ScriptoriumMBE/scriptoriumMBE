@@ -5,8 +5,8 @@
     "devCommand": "npm run start",
 
     "redirects": [
-  { "source": "/musica", "destination": "/music", "permanent": true },
-]
+  { "source": "/musica", "destination": "/music", "permanent": true }
+],
 
 
     
