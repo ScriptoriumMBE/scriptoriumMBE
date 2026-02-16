@@ -5,15 +5,15 @@
 # Terrarios (2026)
 Pieza para cuarteto de vientos: flauta, dos clarinetes en si♭ y fagot.
 
-Esta pieza fue escrita para el Cuarteto Ventolera en el marco de su Segunda Temporada de Conciertos de Compositores Locales, en febrero de 2026, que contempla conciertos en las comunas de Frutillar, Puerto Montt, Maullín y Puerto Varas, en la Región de Los Lagos.
+La pieza fue escrita para el Cuarteto Ventolera en el marco de su Segunda Temporada de Conciertos de Compositores Locales, en febrero de 2026, que contempla conciertos en las comunas de Frutillar, Puerto Montt, Maullín y Puerto Varas, en la Región de Los Lagos.
 
 Duración total: ca. 14 minutos
 
 Movimientos:
-I. Caminata (ca. 7 minutos)
-II. Danzas (ca. 2 minutos)
-III. Intermezzo (ca. 2 minutos)
-IV. Ventolera (Final) (ca. 2 minutos)
+I. Caminata (ca. 6′30′′)
+II. Danzas (ca. 2′30′′)
+III. Intermezzo (1′-3′ *ad. lib*)
+IV. Ventolera (ca. 1′30′′)
 
 La pieza fue estrenada en febrero de 2026 por el Cuarteto Ventolera, compuesto por Cristóbal Ortiz, Nicolás Velásquez, Teresa Soto y Alén Ayancán.
 
@@ -22,4 +22,27 @@ be-mikael@proton.me
 
 ## Nota de programa
 Terrarios es una pieza en cuatro movimientos basada en distintas facetas de la naturaleza. Cada movimiento es un ‘terrario’, una idea autocontenida y descriptiva. —M B-E
+
+
+## Partitura
+<iframe src="/img/user/Terrarios%20PARTITURA%20(A).pdf" width="100%" height="900px" title="Terrarios PARTITURA (A).pdf" style="border:1px solid #ccc;"></iframe>
+
+
+
+
+
+## Audio midi
+Simulación computarizada de cada movimiento.
+
+I. Caminata
+![Terrarios 1-MIDI.mp3](/img/user/Terrarios%201-MIDI.mp3)
+
+II. Danzas
+![Terrarios 2-MIDI.mp3](/img/user/Terrarios%202-MIDI.mp3)
+
+IV. Ventolera
+![Terrarios 4-MIDI.mp3](/img/user/Terrarios%204-MIDI.mp3)
+
+
+
 

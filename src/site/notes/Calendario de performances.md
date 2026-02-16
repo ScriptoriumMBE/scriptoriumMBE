@@ -58,11 +58,11 @@ Espacio Incluir, Ñuñoa, Santiago
 Concierto de Composición, segundo semestre
 - [[Music/Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]] — Andrés Vargas Bardelli, piano; el compositor, piano
 
+
 **13 de junio de 2025**
 Auditorio del Instituto de Música, Campus Oriente de la P. Universidad Católica, Providencia, Santiago
 Concierto de Composición, primer semestre
 - [[Music/Fantasía n°1 (2024)\|Fantasía n°1]], para piano solo — el compositor, piano
-
 
 **25 de febrero de 2025**
 Galería Bosque Nativo (Casa Raddatz), Puerto Varas

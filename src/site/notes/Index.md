@@ -11,7 +11,8 @@ es: [[Música\|Obras Musicales]]
 
 
 
-# [[Essays/Essays\|Essays]]
+# Essays
+[[Essays/Essays\|Essays]]
 
 
 
