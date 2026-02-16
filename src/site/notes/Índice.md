@@ -7,6 +7,10 @@ en: [[Index\|Index]]
 
 # [[Música\|Música]]
 
+
+
+
+
 # [[Ensayos/Ensayos\|Ensayos]]
 
 
@@ -26,4 +30,4 @@ en: [[Index\|Index]]
 
 
 ---
-información del [[autor\|autor]].
+información del [[autor\|autor]]

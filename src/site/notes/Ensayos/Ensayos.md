@@ -15,4 +15,4 @@ en: [[Essays/Essays\|Essays]]
 
 
 ---
-De vuelta al [[Índice\|índice]]
+de vuelta al [[Índice\|índice]]
