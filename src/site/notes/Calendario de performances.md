@@ -34,12 +34,12 @@ Música Latinoamericana de los siglos XX y XXI
 ### *Performances* pasadas
 
 **20 de noviembre de 2025**
-Auditorio Luksic, Campus San Joaquín, P. Universidad Católica, Macul
+Auditorio Luksic, Campus San Joaquín, P. Universidad Católica, Macul, Santiago
 "A solas con el instrumento", Cátedra de Composición UC
 - [[Music/Partita para viola (2024-26)\|Partita para viola]], II. — Nicolás Pantoja, viola
 
 **24 de octubre de 2025**
-Auditorio del Instituto de Música, Campus Oriente de la P. Universidad Católica, Providencia
+Auditorio del Instituto de Música, Campus Oriente de la P. Universidad Católica, Providencia, Santiago
 Velada Lírica
 - [[Music/Alucinación, poemas de Gabriela Mistral (2023)\|La medianoche]] — Consuelo Gallardo, cantante; el compositor, piano
 
@@ -54,12 +54,12 @@ Concierto de Compositores Locales, Orquesta Filarmónica del Lago Llanquihue (OF
 - [[Music/Cueca n°2, para orquesta (2025)\|Cueca n°2]] — Orquesta Filarmónica del Lago Llanquihue, Juan Bautista Torres (dir.) 
 
 **10 de octubre de 2025**
-Espacio Incluir, Ñuñoa
+Espacio Incluir, Ñuñoa, Santiago
 Concierto de Composición, segundo semestre
 - [[Music/Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]] — Andrés Vargas Bardelli, piano; el compositor, piano
 
 **13 de junio de 2025**
-Auditorio del Instituto de Música, Campus Oriente de la P. Universidad Católica, Providencia
+Auditorio del Instituto de Música, Campus Oriente de la P. Universidad Católica, Providencia, Santiago
 Concierto de Composición, primer semestre
 - [[Music/Fantasía n°1 (2024)\|Fantasía n°1]], para piano solo — el compositor, piano
 
