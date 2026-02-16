@@ -5,14 +5,15 @@
 # Índice
 en: [[Index\|Index]]
 
-# [[Música\|Música]]
+# Música
+[[Música\|Música]]
 
 
 
 
 
-# [[Ensayos/Ensayos\|Ensayos]]
-
+# Ensayos
+[[Ensayos/Ensayos\|Ensayos]]
 
 
 
