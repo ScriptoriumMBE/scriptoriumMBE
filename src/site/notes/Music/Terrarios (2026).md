@@ -13,9 +13,9 @@ Movimientos:
 I. Caminata (ca. 6′30′′)
 II. Danzas (ca. 2′30′′)
 III. Intermezzo (1′-3′ *ad. lib*)
-IV. Ventolera (ca. 1′30′′)
+IV. Ventolera (ca. 2′)
 
-La pieza fue estrenada en febrero de 2026 por el Cuarteto Ventolera, compuesto por Cristóbal Ortiz, Nicolás Velásquez, Teresa Soto y Alén Ayancán.
+La pieza será estrenada en febrero de 2026 por el Cuarteto Ventolera, compuesto por Cristóbal Ortiz, Nicolás Velásquez, Teresa Soto y Alén Ayancán.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me
@@ -25,14 +25,14 @@ Terrarios es una pieza en cuatro movimientos basada en distintas facetas de la n
 
 
 ## Partitura
-<iframe src="/img/user/Terrarios%20PARTITURA%20(A).pdf" width="100%" height="900px" title="Terrarios PARTITURA (A).pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/Terrarios%20PARTITURA%20(B).pdf" width="100%" height="900px" title="Terrarios PARTITURA (B).pdf" style="border:1px solid #ccc;"></iframe>
 
 
 
 
 
 ## Audio midi
-Simulación computarizada de cada movimiento.
+Simulación computarizada de cada movimiento (serie A).
 
 I. Caminata
 ![Terrarios 1-MIDI.mp3](/img/user/Terrarios%201-MIDI.mp3)
