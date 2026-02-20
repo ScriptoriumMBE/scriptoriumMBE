@@ -25,7 +25,7 @@ Terrarios es una pieza en cuatro movimientos basada en distintas facetas de la n
 
 
 ## Partitura
-<iframe src="/img/user/Terrarios%20PARTITURA%20(B).pdf" width="100%" height="900px" title="Terrarios PARTITURA (B).pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/Music/Partituras/Terrarios%20PARTITURA%20(B).pdf" width="100%" height="900px" title="Terrarios PARTITURA (B).pdf" style="border:1px solid #ccc;"></iframe>
 
 
 
@@ -35,13 +35,13 @@ Terrarios es una pieza en cuatro movimientos basada en distintas facetas de la n
 Simulación computarizada de cada movimiento (serie A).
 
 I. Caminata
-![Terrarios 1-MIDI.mp3](/img/user/Terrarios%201-MIDI.mp3)
+![Terrarios 1-MIDI.mp3](/img/user/Music/Audios/midi/Terrarios%201-MIDI.mp3)
 
 II. Danzas
-![Terrarios 2-MIDI.mp3](/img/user/Terrarios%202-MIDI.mp3)
+![Terrarios 2-MIDI.mp3](/img/user/Music/Audios/midi/Terrarios%202-MIDI.mp3)
 
 IV. Ventolera
-![Terrarios 4-MIDI.mp3](/img/user/Terrarios%204-MIDI.mp3)
+![Terrarios 4-MIDI.mp3](/img/user/Music/Audios/midi/Terrarios%204-MIDI.mp3)
 
 
 

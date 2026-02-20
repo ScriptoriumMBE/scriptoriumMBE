@@ -4,11 +4,8 @@
 
 # Calendario de *performances* en conciertos públicos
 
+---
 ### *Performances* programadas
-**19 de febrero de 2026**
-Auditorio de la Biblioteca Municipal de Frutillar
-2ª Temporada de Conciertos de Compositores Locales
-- [[Music/Terrarios (2026)\|Terrarios]] — Cuarteto Ventolera: Cristóbal Ortiz, flauta; Nicolás Velásquez, Teresa Soto: clarinetes; Alén Ayancán, fagot
 
 **26 de febrero de 2026**
 Biblioteca Regional de la Región de Los Lagos, Puerto Montt
@@ -32,6 +29,11 @@ Música Latinoamericana de los siglos XX y XXI
 
 ---
 ### *Performances* pasadas
+
+**19 de febrero de 2026**
+Auditorio de la Biblioteca Municipal de Frutillar
+2ª Temporada de Conciertos de Compositores Locales
+- [[Music/Terrarios (2026)\|Terrarios]] (Primer movimiento) — Cuarteto Ventolera: Cristóbal Ortiz, flauta; Nicolás Velásquez, Teresa Soto: clarinetes; Alén Ayancán, fagot
 
 **20 de noviembre de 2025**
 Auditorio Luksic, Campus San Joaquín, P. Universidad Católica, Macul, Santiago
