@@ -20,7 +20,6 @@ Teatro Municipal de Chillán, 2024.
 
 Biblioteca Municipal de Frutillar, 2025.
 
-
 [Campus Oriente UC, 2025](https://www.youtube.com/watch?v=RmV3ai-vJPM)
 
 ## Interpretaciones

@@ -44,4 +44,4 @@
 
 ---
 [[Calendario y archivo\|Calendario y archivo]] de información de *performances*
-Los emojis indican si la página en cuestión incluye la partitura de la obra (🎼) o una performance (🎶) o una simulación computarizada midi (🔈).
+Los símbolos *emoji* indican si la página en cuestión incluye la partitura de la obra (🎼) o una performance (🎶) o una simulación computarizada midi (🔈).

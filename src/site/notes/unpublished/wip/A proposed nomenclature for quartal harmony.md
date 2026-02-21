@@ -20,60 +20,60 @@ Here is the complete table of chords. P stands for perfect fourth and T for trit
 
 | Intervals | Cipher     |
 | --------- | ---------- |
-| PP        | ⃞³J        |
-| PT        | ⃞³Ion      |
-| TP        | ⃞³Lyd      |
+| PP        | □³J        |
+| PT        | □³Ion      |
+| TP        | □³Lyd      |
 |           |            |
-| PPP       | ⃞⁴J        |
-| PPT       | ⃞⁴Mix      |
-| PTP       | ⃞⁴Ion      |
-| TPP       | ⃞⁴Lyd      |
-| TPT       | ⃞⁴m-Lyd    |
+| PPP       | □⁴J        |
+| PPT       | □⁴Mix      |
+| PTP       | □⁴Ion      |
+| TPP       | □⁴Lyd      |
+| TPT       | □⁴m-Lyd    |
 |           |            |
-| PPPP      | ⃞⁵J        |
-| PPPT      | ⃞⁵Dor      |
-| PPTP      | ⃞⁵Mix      |
-| PTPP      | ⃞⁵Ion      |
-| PTPT      | ⃞⁵m-Ion    |
-| TPPT      | ⃞⁵Lyd      |
-| TPPP      | ⃞⁵Lyd      |
-| TPTP      | ⃞⁵m-Lyd    |
+| PPPP      | □⁵J        |
+| PPPT      | □⁵Dor      |
+| PPTP      | □⁵Mix      |
+| PTPP      | □⁵Ion      |
+| PTPT      | □⁵m-Ion    |
+| TPPT      | □⁵Lyd      |
+| TPPP      | □⁵Lyd      |
+| TPTP      | □⁵m-Lyd    |
 |           |            |
-| PPPPP     | ⃞⁶J        |
-| PPPPT     | ⃞⁶Eol      |
-| PPPTP     | ⃞⁶Dor      |
-| PPTPP     | ⃞⁶Mix      |
-| PPTPT     | ⃞⁶         |
-| PTPPP     | ⃞⁶Ion      |
-| PTPPT     | ⃞⁶         |
+| PPPPP     | □⁶J        |
+| PPPPT     | □⁶Eol      |
+| PPPTP     | □⁶Dor      |
+| PPTPP     | □⁶Mix      |
+| PPTPT     | □⁶\*       |
+| PTPPP     | □⁶Ion      |
+| PTPPT     | □⁶\*       |
 | PTPTP     | ⃞⁶m-Ion    |
-| TPPPP     | ⃞⁶Lyd      |
-| TPPPT     | ⃞⁶         |
-| TPPTP     | ⃞⁶         |
-| TPTPP     | ⃞⁶         |
-| TPTPT     | ⃞⁶m-Lyd    |
+| TPPPP     | □⁶Lyd      |
+| TPPPT     | □⁶\*       |
+| TPPTP     | □⁶\*       |
+| TPTPP     | □⁶\*       |
+| TPTPT     | □⁶m-Lyd    |
 |           |            |
-| PPPPPP    | ⃞⁷J (locr) |
-| PPPPPT    | ⃞⁷Phr      |
-| PPPPTP    | ⃞⁷Eol      |
-| PPPTPP    | ⃞⁷Dor      |
-| PPPTPT    | ⃞⁷         |
-| PPTPPP    | ⃞⁷Mix      |
-| PPTPPT    | ⃞⁷         |
-| PPTPTP    | ⃞⁷         |
-| PTPPPP    | ⃞⁷Ion      |
-| PTPPPT    | ⃞⁷         |
-| PTPPTP    | ⃞⁷         |
-| PTPTPP    | ⃞⁷         |
-| PTPTPT    | ⃞⁷m-Ion    |
-| TPPPPP    | ⃞⁷Lyd      |
-| TPPPPT    | ⃞⁷         |
-| TPPPTP    | ⃞⁷         |
-| TPPTPP    | ⃞⁷         |
-| TPPTPT    | ⃞⁷         |
-| TPTPPP    | ⃞⁷         |
-| TPTPPT    | ⃞⁷         |
-| TPTPTP    | ⃞⁷m-Lyd    |
+| PPPPPP    | □⁷J (locr) |
+| PPPPPT    | □⁷Phr      |
+| PPPPTP    | □⁷Eol      |
+| PPPTPP    | □⁷Dor      |
+| PPPTPT    | □⁷         |
+| PPTPPP    | □⁷Mix      |
+| PPTPPT    | □⁷         |
+| PPTPTP    | □⁷         |
+| PTPPPP    | □⁷Ion      |
+| PTPPPT    | □⁷\*       |
+| PTPPTP    | □⁷\*       |
+| PTPTPP    | □⁷\*       |
+| PTPTPT    | □⁷m-Ion    |
+| TPPPPP    | □⁷Lyd      |
+| TPPPPT    | □⁷\*       |
+| TPPPTP    | □⁷\*       |
+| TPPTPP    | □⁷\*       |
+| TPPTPT    | □⁷\*       |
+| TPTPPP    | □⁷\*       |
+| TPTPPT    | □⁷\*       |
+| TPTPTP    | □⁷m-Lyd    |
 
  
  
