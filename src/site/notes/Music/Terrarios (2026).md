@@ -15,7 +15,6 @@ II. Danzas (ca. 2′30′′)
 III. Intermezzo (1′-3′ *ad. lib*)
 IV. Ventolera (ca. 2′)
 
-La pieza será estrenada en febrero de 2026 por el Cuarteto Ventolera, compuesto por Cristóbal Ortiz, Nicolás Velásquez, Teresa Soto y Alén Ayancán.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
 be-mikael@proton.me

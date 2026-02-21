@@ -19,7 +19,7 @@ There is nothing ontological in a piece of music needing to be economical or mat
 Famously, Debussy
 >believed that Beethoven had terrifically profound things to say, but that he did not know how to say them, because he was imprisoned in a web of incessant restatement and of German aggressiveness.[^1]
 
-The view implicit in the quote is the critique of the material, motivic economy of Beethoven was taking place of the economy of the semantic economy. This exemplifies one of the dividing principles of [[wip/The Germanic and Parisian æsthetic archetypes\|The Germanic and Parisian æsthetic archetypes]], the central *quid* of it being the explicit *versus* the implicit. Both might be thought of as archetypal poles, the Germanic bringing the truth through form and the Parisian protecting truth from form.
+The view implicit in the quote is the critique of the material, motivic economy of Beethoven was taking place of the economy of the semantic economy. This exemplifies one of the dividing principles of [[unpublished/wip/The Germanic and Parisian æsthetic archetypes\|The Germanic and Parisian æsthetic archetypes]], the central *quid* of it being the explicit *versus* the implicit. Both might be thought of as archetypal poles, the Germanic bringing the truth through form and the Parisian protecting truth from form.
 
 In the end, economy —much like teleology— is a stylistic/æsthetic choice.
 

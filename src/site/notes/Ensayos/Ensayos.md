@@ -14,6 +14,7 @@ en: [[Essays/Essays\|Essays]]
 ## Filosofía
 ### Metaplatonismo
 [[Ensayos/Brevísima exposición del modelo metaplatónico\|Brevísima exposición del modelo metaplatónico]]
+en: [[Essays/A sketch of Metaplatonism\|A sketch of Metaplatonism]]
 
 
 
