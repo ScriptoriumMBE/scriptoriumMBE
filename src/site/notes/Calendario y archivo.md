@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/calendario-y-archivo/"}
 ---
 
-# Calendario de *performances* en conciertos públicos
+# Calendario y archivo de *performances* en conciertos públicos
 
 ---
-### *Performances* programadas
+### Calendario de *performances* programadas
 
 **26 de febrero de 2026**
 Biblioteca Regional de la Región de Los Lagos, Puerto Montt
