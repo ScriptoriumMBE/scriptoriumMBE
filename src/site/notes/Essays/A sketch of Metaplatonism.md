@@ -7,7 +7,7 @@
 
 
 ## Introduction
-Assume an infinite-dimensional-abstract-space (this means that it is analogous but not identical to material or other kinds of spaces) that is constituted by all the possible mental objects (abstracted and *meta-abstracted* from actual mental objects). This includes things like statements (discreet thoughts, for example, all sets) and *qualia*, and combinations and abstractions of them (note that this also includes statements which are not true and qualia that might not correspond to any actual real-world experience).
+Assume an infinite-dimensional-abstract-space (this means that it is analogous but not identical to material or other kinds of spaces) that is constituted by all the possible mental objects (abstracted and *meta-abstracted* from actual mental objects). This includes things like statements (discrete thoughts, for example, all sets) and *qualia*, and combinations and abstractions of them (note that this also includes statements which are not true and qualia that might not correspond to any actual real-world experience).
 
 It might seem strange that the space includes both statements and qualia. But statements are just one specific kind of qualia, characterised by being making a semantic claim. All of them will be called metaplatonic objects, idea-objects or ideas.
 
