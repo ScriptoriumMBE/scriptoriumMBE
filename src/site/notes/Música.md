@@ -43,4 +43,4 @@
 
 
 ---
-[[Calendario de performances\|Calendario y archivo]] de información de *performances*
+[[Calendario y archivo\|Calendario y archivo]] de información de *performances*
