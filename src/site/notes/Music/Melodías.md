@@ -38,5 +38,6 @@ be-mikael@proton.me
 Interpretada por Santiago Cortez, viola y el compositor, piano. Biblioteca Municipal de Frutillar, enero de 2025.
 
 ### Partitura
+<span class="sr-only">Este PDF es la partitura de la pieza, con la melodía escrita en clave de Do, para la viola.</span>
 
 <iframe src="/img/user/Music/Partituras/Melod%C3%ADa%20en%20Sol%20sostenido.pdf" width="100%" height="900px" title="Melodía en Sol sostenido.pdf" style="border:1px solid #ccc;"></iframe>

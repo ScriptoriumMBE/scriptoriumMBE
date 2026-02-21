@@ -39,7 +39,6 @@ be-mikael@proton.me
 *La forma del tiempo* nació como una exploración musical del flujo inconsciente. Contiene elementos de la tradición musical folclórica chilena y de la música de la Antigua Grecia, incluyendo una cita del *Coro de Orestes*, una de los pocos fragmentos de música griega antigua que han llegado hasta nuestros días.
 
 
-
 <iframe src="/img/user/Music/Partituras/La%20forma%20del%20tiempo%20(B-2026).pdf" width="100%" height="900px" title="La forma del tiempo (B-2026).pdf" style="border:1px solid #ccc;"></iframe>
 
 ## Audio midi

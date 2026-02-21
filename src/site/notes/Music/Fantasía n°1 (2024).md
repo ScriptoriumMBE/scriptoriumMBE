@@ -28,4 +28,5 @@ La pieza ha sido interpretada por Cristóbal Rojas en la Universidad Austral de 
 La pieza ha sido interpretada por el compositor en distintos escenarios, incluyendo el Teatro Municipal de Chillán y el Campus Oriente de la Pontificia Universidad Católica de Chile.
 
 ---
+
 <iframe src="/img/user/Music/Partituras/Fantas%C3%ADa%20n%C2%B01%20(B-2026).pdf" width="100%" height="900px" title="Fantasía n°1 (B-2026).pdf" style="border:1px solid #ccc;"></iframe>

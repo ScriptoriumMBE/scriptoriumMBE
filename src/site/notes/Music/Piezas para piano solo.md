@@ -15,7 +15,6 @@ Para interpretar la pieza, por favor escriba a
 be-mikael@proton.me
 
 Partitura:
-
 <iframe src="/img/user/Music/Partituras/Preludio%20n%C2%B01%20(D-2026).pdf" width="100%" height="900px" title="Preludio n°1 (D-2026).pdf" style="border:1px solid #ccc;"></iframe>
 
 
