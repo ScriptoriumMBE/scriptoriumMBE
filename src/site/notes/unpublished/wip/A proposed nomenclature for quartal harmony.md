@@ -6,7 +6,7 @@
 
 > [!Note] This is a work in progress, I still have to find a satisfactory way of cyphering some chords
 
-Quartal chords are chords built by stacking fourths on top of one another. Just like common chords in tonal are built by stacking thirds. We will use the square ⃞ and triangle △ symbols to symbolise each, respectively. We will proceed analogising the system of chord naming used for △-chords.
+Quartal chords are chords built by stacking fourths on top of one another. Just like common chords in tonal are built by stacking thirds. We will use the square □ and triangle △ symbols to symbolise each, respectively. We will proceed analogising the system of chord naming used for △-chords.
 
 Fourths can be of different species. The ordinary species are perfect (or just) and augmented (the tritone). The fourth can also be diminished (enharmonic with a major third).
 
@@ -46,7 +46,7 @@ Here is the complete table of chords. P stands for perfect fourth and T for trit
 | PPTPT     | □⁶\*       |
 | PTPPP     | □⁶Ion      |
 | PTPPT     | □⁶\*       |
-| PTPTP     | ⃞⁶m-Ion    |
+| PTPTP     | □⁶m-Ion    |
 | TPPPP     | □⁶Lyd      |
 | TPPPT     | □⁶\*       |
 | TPPTP     | □⁶\*       |
@@ -75,14 +75,6 @@ Here is the complete table of chords. P stands for perfect fourth and T for trit
 | TPTPPT    | □⁷\*       |
 | TPTPTP    | □⁷m-Lyd    |
 
- 
- 
- 
- 
- 
- 
-
-
 The abbreviations are to be read like this:
 J→Just (also might be symbolised by lcr and called Locrian, specially when it has more notes)
 Ion→Ionian
@@ -90,9 +82,8 @@ Lyd→Lydian
 Mix→Mixolydian
 Dor→Dorian
 Eol→Eolian
-Phr→Phrygian
-
-> [!note] the above can also be abbreviated with just the first letter.
+Phr→Phrygian;
+the above can also be abbreviated with just the first letter.
 
 oct₁→octatonic (also the second mode of limited transposition, the subscript indicates it is the one starting with a semitone)
 m-→meta-
