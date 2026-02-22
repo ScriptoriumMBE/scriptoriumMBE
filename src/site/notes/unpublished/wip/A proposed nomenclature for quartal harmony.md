@@ -4,6 +4,8 @@
 
 #wip
 
+# A proposed nomenclature for quartal harmony
+
 > [!Note] This is a work in progress, I still have to find a satisfactory way of cyphering some chords
 
 Quartal chords are chords built by stacking fourths on top of one another. Just like common chords in tonal are built by stacking thirds. We will use the square □ and triangle △ symbols to symbolise each, respectively. We will proceed analogising the system of chord naming used for △-chords.
