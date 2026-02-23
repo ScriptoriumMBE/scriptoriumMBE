@@ -11,6 +11,8 @@ I. Preludio (ca. 3 minutos)
 II. Nocturno (ca. 7 minutos)
 III. Danza (ca. 4 minutos)
 
+Como lo sugiere la portada, la pieza (sobre todo los primeros dos movimientos) tiene una conexión matemática con el ratio llamado $φ$ y la sucesión de Fibonacci. *Quaerendo invenietis*.
+
 A la fecha, la pieza es inédita.
 
 Para conseguir las partes y/o interpretar la pieza, por favor escriba a
