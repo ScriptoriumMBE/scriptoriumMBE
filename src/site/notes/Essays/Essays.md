@@ -19,6 +19,7 @@ es: [[Ensayos/Ensayos\|Ensayos]]
 [[Essays/A sketch of Metaplatonism\|A sketch of Metaplatonism]]
 ## Miscellaneous
 [[Essays/Thresholds\|Thresholds]]
+[[Essays/On Boustrophedonic writing\|On Boustrophedonic writing]]
 
 ---
 back to the [[Index\|index]]
