@@ -10,13 +10,13 @@
 
 [[Literatura/Eclipse\|Eclipse]]
 
-[[Literatura/Haiku n°1\|Haiku n°1]]
-
 [[Literatura/Las apreciaciones del estío\|Las apreciaciones del estío]]
 
 [[Literatura/Lo más bello\|Lo más bello]]
 
-[[Literatura/Miniatura\|Miniatura]]
+[[Literatura/Miniatura n°1\|Miniatura n°1]]
+
+[[Literatura/Miniatura n°2\|Miniatura n°2]]
 
 [[Literatura/Paisaje nocturno\|Paisaje nocturno]] (romance libre)
 
