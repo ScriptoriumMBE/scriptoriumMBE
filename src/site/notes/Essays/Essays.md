@@ -18,7 +18,7 @@ es: [[Ensayos/Ensayos\|Ensayos]]
 ## Philosophy
 ### Meta-platonism
 [[Essays/A very brief exposition of the meta-Platonic model\|A very brief exposition of the meta-Platonic model]]
-[[Essays/A sketch of Metaplatonism\|A sketch of Metaplatonism]]
+
 ## Miscellaneous
 [[Essays/Thresholds\|Thresholds]]
 [[Essays/On Boustrophedonic writing\|On Boustrophedonic writing]]
