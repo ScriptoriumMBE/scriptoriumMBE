@@ -6,7 +6,7 @@
 ## Música de cámara
 [[Music/Quinteto en Re (2022-23)\|Quinteto en Re (2022-23)]], para flauta, violín, viola, violonchelo y piano 🎼 🎶
 
-[[Music/Preludio para viola y piano (2022-23)\|Preludio para viola y piano (2022-23)]] 🎼 🎶
+[[Music/Preludio para viola y piano (2022-23)\|Preludio para viola y piano (2022-23)]] 🎼 🖥️
 
 [[Music/Tres danzas chilenas (2023)\|Tres danzas chilenas (2023)]], para dos violines
 
@@ -17,9 +17,9 @@
 
 [[Music/Adagio n°2\|Adagio n°2]], para piano solo (2023)
 
-[[Music/Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]], para piano solo (2023-25, rev. 2026) 🎶
+[[Music/Tres piezas de inspiración folclórica\|Tres piezas de inspiración folclórica]], para piano solo (2023-25, rev. 2026) 🖥️
 
-[[Music/Fantasía n°1 (2024)\|Fantasía n°1 (2024)]], para piano solo 🎼 🎶
+[[Music/Fantasía n°1 (2024)\|Fantasía n°1 (2024)]], para piano solo 🎼 🖥️
 
 [[Music/Balada n°1 (2024)\|Balada n°1 (2024)]], para piano solo
 
@@ -44,4 +44,4 @@
 
 ---
 [[Calendario y archivo\|Calendario y archivo]] de información de *performances*
-Los símbolos *emoji* indican si la página en cuestión incluye la partitura de la obra (🎼) o una performance (🎶) o una simulación computarizada midi (🔈).
+Los símbolos *emoji* indican si la página en cuestión incluye la partitura de la obra (🎼), un audio grabado en vivo (🎶), un video grabado en vivo (🖥️) o una simulación computarizada midi (🔈).
