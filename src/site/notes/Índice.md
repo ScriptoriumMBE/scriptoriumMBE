@@ -12,7 +12,7 @@ en: [[Index\|Index]]
 [[Ensayos/Ensayos\|Ensayos]]
 
 # Cuentos
-[[Cuentos\|Cuentos]]
+[[Cuentos/Cuentos\|Cuentos]]
 
 
 
