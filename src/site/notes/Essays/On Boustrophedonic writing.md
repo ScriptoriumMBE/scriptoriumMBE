@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/essays/on-boustrophedonic-writing/","tags":["wip"]}
+{"dg-publish":true,"permalink":"/essays/on-boustrophedonic-writing/"}
 ---
-
-
-#wip 
 
 # On Boustrophedonic writing, on writing boustrophedonically
 
