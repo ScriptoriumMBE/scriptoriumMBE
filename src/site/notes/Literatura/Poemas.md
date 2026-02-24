@@ -18,9 +18,9 @@
 
 [[Literatura/Miniatura\|Miniatura]]
 
-[[Literatura/Paisaje nocturno\|Paisaje nocturno]]
+[[Literatura/Paisaje nocturno\|Paisaje nocturno]] (romance libre)
 
 [[Literatura/Qué escribo\|Qué escribo]]
 
-[[Literatura/Sueño de cristal (acertijo)\|Sueño de cristal (acertijo)]]
+[[Literatura/Sueño de cristal\|Sueño de cristal]] (acertijo)
 
