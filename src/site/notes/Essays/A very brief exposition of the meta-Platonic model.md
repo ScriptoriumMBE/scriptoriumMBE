@@ -14,7 +14,7 @@ If we look at our space again we realise certain quite interesting peculiarities
 
 And here a number of things happen. When we talk about a Work, let us say, musical, philosophical, literary, what are we talking about? Certainly our words point to a specific object, to an idea. We could almost say a Platonic idea, but Plato's theory comes with undesirable and limiting teleological-moral metaphysical baggage, like we said previously. This applies even more when referring to grand concepts (let us exemplify, the Theory of Natural Selection, or similar ideas). The frame of this meta-Platonic theory allows us to understand what are we referring to (what mental object —in this (and all) case(s)— does language point to).
 
-With this we have defined in a very broad way the space (referred to here as the idea space or Μ (uppercase-µ)) and the mental objects (also ideas or Λ).
+With this we have defined in a very broad way the space (referred to here as the idea space or Μ (uppercase-µ)) and the mental objects (also ideas or ℰ).
 
 We can go to other analysis characteristics (we bring metaphysics back). We have described this space as infinite and infinite-dimensional. In this space, like in experience (and by analogy, evidently), there are objects that are more and less similar to each other. Clearly all sounds, *exempli gratia*, will have in common the being sounds, the same with images and colours (even the ones that are not inside our visual qualia domain —or, if it is the case, the experienced by different consciousness possibilities, the totality of the experienced (who could be different even responding to the same physical stimuli)—), this is able to be analogised *ad infinitum*.
 
