@@ -8,14 +8,9 @@ en: [[Index\|Index]]
 # Música
 [[Música\|Música]]
 
-
-
-
-
 # Ensayos
 [[Ensayos/Ensayos\|Ensayos]]
 
-%% 
 # Cuentos
 [[Cuentos\|Cuentos]]
 
