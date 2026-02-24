@@ -15,6 +15,9 @@ en: [[Index\|Index]]
 # Ensayos
 [[Ensayos/Ensayos\|Ensayos]]
 
+%% 
+# Cuentos
+[[Cuentos\|Cuentos]]
 
 
 
