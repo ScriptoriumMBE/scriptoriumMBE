@@ -11,8 +11,9 @@ en: [[Index\|Index]]
 # Ensayos
 [[Ensayos/Ensayos\|Ensayos]]
 
-# Cuentos
-[[Cuentos/Cuentos\|Cuentos]]
+# Literatura
+[[Literatura/Cuentos\|Cuentos]]
+[[Literatura/Poemas\|Poemas]]
 
 
 
