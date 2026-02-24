@@ -5,11 +5,11 @@
 
 #wip 
 
-# On Boustrophedonic writing
+# On Boustrophedonic writing (and on writing boustrophedonically)
 
 Boustrophedonic writing (from βοῦς, ox, and στρέφειν, to turn, literally "turning like the ox") is a style of writing alternate lines in reversed directions and mirrored letters. It is found in many scripts throughout the world, and even our good old Greek script was written like that in the Archaic Period.
 
-![Heráklion_20180613_185048.jpg|200](/img/user/other_files/Her%C3%A1klion_20180613_185048.jpg)
+![Heráklion_20180613_185048.jpg|400](/img/user/other_files/Her%C3%A1klion_20180613_185048.jpg)
 > [!info] Boustrophedon inscription on a fragment of a stone plate in archaic Cretan script. Archaeological Museum of Heraklion. The inscription refers to animal sacrifices in honor of the Greek gods. Found in Gortyna, between 600-550 BC. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Heráklion_20180613_185048.jpg))
 
 This style of writing has some very obvious advantages and disadvantages. The processes of writing and (especially) reading are much more fluid. The only real disadvantage is that it is more difficult to learn (and it might be terrible for dyslexic people).
