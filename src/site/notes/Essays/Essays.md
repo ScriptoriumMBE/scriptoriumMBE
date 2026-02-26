@@ -8,14 +8,15 @@ es: [[Ensayos/Ensayos\|Ensayos]]
 ### Æsthetics
 [[Essays/On the economy of materials in music\|On the economy of materials in music]]
 
-
-
+### Music theory
+[[unpublished/wip/A proposed nomenclature for quartal harmony\|A proposed nomenclature for quartal harmony]]
 
 ### Criticism
 [[Essays/On 'classical' and 'popular' music\|On 'classical' and 'popular' music]]
 
 
 ## Philosophy
+
 ### Meta-platonism
 [[Essays/A very brief exposition of the meta-Platonic model\|A very brief exposition of the meta-Platonic model]]
 

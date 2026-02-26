@@ -43,5 +43,5 @@
 
 
 ---
-[[Calendario y archivo\|Calendario y archivo]] de información de *performances*
+[[Music/Calendario y archivo\|Calendario y archivo]] de información de *performances*
 Los símbolos *emoji* indican si la página en cuestión incluye la partitura de la obra (🎼), un audio grabado en vivo (🎶), un video grabado en vivo (🖥️) o una simulación computarizada midi (🔈).
