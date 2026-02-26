@@ -10,7 +10,7 @@
 **26 de febrero de 2026**
 Biblioteca Regional de la Región de Los Lagos, Puerto Montt
 2ª Temporada de Conciertos de Compositores Locales
-- [[Music/Terrarios (2026)\|Terrarios]] — Cuarteto Ventolera: Cristóbal Ortiz, flauta; Nicolás Velásquez, Teresa Soto: clarinetes; Alén Ayancán, fagot; el compositor, dirección y piano.
+- [[Music/Terrarios (2026)\|Terrarios]] — Cuarteto Ventolera: Cristóbal Ortiz, flauta; Nicolás Velásquez, Teresa Soto: clarinetes; Alén Ayancán, fagot; el compositor, dirección (movs. 2 y 4) y piano (mov. 3).
 
 **27 de febrero de 2026**
 Biblioteca Municipal de Maullín
