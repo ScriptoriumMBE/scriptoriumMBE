@@ -29,10 +29,10 @@ Esta es una pieza bastante particular. La escribí muy rápido, tomó cerca de t
 Simulación computarizada de cada movimiento .
 
 I. Defenestración (Allegro)
-![Tres movimientos 1-Defenestración MIDI.wav](/img/user/Music/Audios/midi/Tres%20movimientos%201-Defenestraci%C3%B3n%20MIDI.wav)
+![Tres movimientos 1-Defenestración MIDI.mp3](/img/user/Music/Audios/midi/Tres%20movimientos%201-Defenestraci%C3%B3n%20MIDI.mp3)
 
 II. Elegía (Intermedio)
-![Tres movimientos 2-Elegía MIDI.wav](/img/user/Music/Audios/midi/Tres%20movimientos%202-Eleg%C3%ADa%20MIDI.wav)
+![Tres movimientos 2-Elegía MIDI.mp3](/img/user/Music/Audios/midi/Tres%20movimientos%202-Eleg%C3%ADa%20MIDI.mp3)
 
 III. Resoluciones (Final)
-![Tres movimientos 3-Resoluciones MIDI.wav](/img/user/Music/Audios/midi/Tres%20movimientos%203-Resoluciones%20MIDI.wav)
+![Tres movimientos 3-Resoluciones MIDI.mp3](/img/user/Music/Audios/midi/Tres%20movimientos%203-Resoluciones%20MIDI.mp3)
