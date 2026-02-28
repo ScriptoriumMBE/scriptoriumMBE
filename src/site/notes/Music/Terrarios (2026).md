@@ -30,7 +30,7 @@ Terrarios es una pieza en cuatro movimientos basada en distintas facetas de la n
 
 
 
-## Audio midi
+## Audio MIDI
 Simulación computarizada de cada movimiento (serie A).
 
 I. Caminata

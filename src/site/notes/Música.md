@@ -34,7 +34,7 @@
 [[Music/Partita para viola (2024-26)\|Partita para viola (2024-26)]]
 
 ## Orquesta
-[[Music/Suite n°1 (2023)\|Suite n°1 (2023)]], para orquesta de cuerdas 🎼
+[[Music/Suite n°1 (2023)\|Suite n°1 (2023)]], para orquesta de cuerdas 🎼 🔈
 
 [[Music/Cueca n°2, para orquesta (2025)\|Cueca n°2, para orquesta (2025)]] 🎼
 
