@@ -41,7 +41,14 @@ IV. Paraíso
 ![Alucinación 4-Paraíso.wav](/img/user/Music/Audios/Alucinaci%C3%B3n%204-Para%C3%ADso.wav)
 (véase el poema y/o la partitura, más abajo).
 
+[Primeras tres canciones](https://youtu.be/DYhqUFY6sww), por Jessica Rivas y el compositor
 
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aIG0G4Il0LQ?rel=0?modestbranding=1?iv_load_policy=3?autoplay=0" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+La medianoche, versión viola y piano: Santiago Cortez y el compositor; Galería Bosque Nativo, 2024.
 
 
 La pieza ha sido interpretada (total o parcialmente) por los siguientes músicos: los cantantes Fabián García, Jessica Rivas y Consuelo Gallardo, el violista Santiago Cortez y el compositor.

@@ -21,3 +21,6 @@ be-mikael@proton.me
 ----
 ## Partitura
 <iframe src="/img/user/Music/Partituras/Suite%201%20(B-2025).pdf" width="100%" height="900px" title="Suite 1 (B-2025).pdf" style="border:1px solid #ccc;"></iframe>Serie B-2023
+
+## MIDI
+<iframe width="974" height="548" src="https://www.youtube.com/embed/JAYYKBdFBzg" title="Mikael Birchmeier-Epprecht – Suite n°1 (2023) midi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

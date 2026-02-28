@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Cuentos.md","permalink":"/cuentos/"}
 ---
 
-# Cuentos
+# Microcuentos
 
 [[Literatura/Ventanas\|Ventanas]] (2018)
 
